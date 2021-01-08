@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(#39f167, #f6f8f8);
+}
+
+.jumbotron .display-4{
+    font-weight: bold;
+}
+
+.jumbotron .lead{
+    font-size: 38px;
+}
+
+.jumbotron a {
+    margin-left: 500px;
+}
+
+.container{
+    width:1200px;
+	padding:20px;
+}
+
+.container .row .col-md-4{
+    margin-bottom: 30px;
+}
+
+.card {
+    width: 20rem;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+
+#card-img{
+    margin-top: 20px;
+    margin-left: 0;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    display: block;
+}
+
+.cara {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#card2{
+    border: none;
+    margin-bottom: 30px;
+}
+
+
+#about-card {
+    margin-left: none;
+}
+
+.img-fluid{
+    width: auto;
+}
+
+#img-stuff {
+    height: 400px;
+    width: auto;
+}
